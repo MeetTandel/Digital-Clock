@@ -52,7 +52,7 @@ button:hover{
             width: 100%;
         }
         #screen{
-            font-size: 7.5rem;
+            font-size: 3.8rem;
         }
 }
 
@@ -61,6 +61,6 @@ button:hover{
         width: 100%;
     }
     #screen{
-        font-size: 8rem;
+        font-size: 3.8rem;
     }
 }
