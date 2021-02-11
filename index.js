@@ -21,5 +21,5 @@ function stopButton(){
 
 //display the date
 let today = new Date();
-let date = `${today.getDate()} / ${today.getMonth()} / ${today.getFullYear()}`;
+let date = `${today.getDate()} / ${today.getMonth() + 1} / ${today.getFullYear()}`;
 currentDateDiv.innerText = `${date}`;
